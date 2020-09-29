@@ -1,0 +1,130 @@
+content:
+- Points on the 2D plane
+- Representing time as a class
+- Books
+- Complex numbers
+- Accounts
+- Inner boxes
+- Binary search
+- Creating instances
+- Sorting arrays
+- Getting input
+- Account
+- Book
+- Account and its owner
+- Geometric cube
+- User
+- Complex numbers (1)
+- Check the sum
+- Print
+- Overloading methods
+- Start sequence of words
+- End sequence
+- Fizz Buzz
+- Vehicle registration number
+- Check IP address
+- Illegal identifiers
+- Safe password
+- Check the clock time
+- Army
+- Preparing full name
+- In a box
+- Patient needs a doctor
+- Simulating a clock
+- Complex numbers (2)
+- Raise to the power
+- Account (1)
+- Book (1)
+- Getting the fullname
+- Complex
+- Project constants and methods
+- Too many cats
+- Time
+- Phone
+- Employee
+- Movie
+- Find a word with a given length
+- Start or end of a word
+- Number parsing
+- In the middle of a word
+- Classes for Hospital
+- Fix the non-compiled hierarchy
+- Employees
+- Bank account
+- Saying animals
+- Shapes area
+- Publications
+- Find mistake
+- Publication and its subclasses
+- Mutable geometric shapes
+- Account Service
+- Compact strings with AsciiCharSequence
+- Avoid division by zero
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- Extracting big numbers from a text
+- Extracting words from a text
+- Find all passwords
+- Builder
+- Subway Sandwich
+- Builder (1)
+- Geek Builder
+- Robot Builder
+- Pastry packing optimization
+- Output the list's elements
+- Concat positive numbers
+- Find the nearest number
+- Creating list
+- Days of week
+- Danger levels
+- Balance management
+- IntBinaryOperation
+- Users and WebSites
+- Shape hierarchy
+- Getting information on a day
+- The first and the last day of a month
+- Find all mondays
+- Seconds since start of a day
+- Return time without seconds
+- Seconds between two time points
+- Add 11 hours and print the date
+- Merging date-time instances
+- The passed hours since the beginning of year
+- Who is who
+- Counting 2D shapes
+- Sum of the areas
+- Motor static factory
+- Clock factory
+- Static factory methods for Time
+- Forex Broker
+- Undo command
+- Remote Controller
+- Clocks
+- Robot
+- Motors
+- Template Method
+- Template Method (1)
+- Laptop factory
+- Burgers
+- Phone factory
+- Fixing the main method
+- Print "Hello, Java!"
+- Print "We are robots!"
+- Inverse boolean flags
+- Sorting numbers
+- Get first and last elements
+- String to double conversion
+- Catching some exceptions
+- Converting and multiplying
+- Parameters and their values
+- The index of an argument
+- Advanced calculator
+- Are siblings?
+- Convert to byte array
+- Convert to bytes
+- Reverse input text
+- Count words
+- Serializable user
+- The Range class
